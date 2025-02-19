@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Keshav1602/FSD_BACKEND/issues"
   },
-  "homepage": "https://github.com/Keshav1602/FSD_BACKEND#readme"
+  "homepage": "https://github.com/Keshav1602/FSD_BACKEND#readme",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
